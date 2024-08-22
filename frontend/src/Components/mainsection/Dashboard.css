@@ -1,0 +1,26 @@
+.dashboard{
+  
+    display:flex;
+    
+}
+.sidebar{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.main{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    width: 1000px;
+
+}
+ .headsection{
+    display: flex;
+    justify-content: space-between;
+ }
+.leftsection{
+    display: flex;
+    gap: 10px;
+}
